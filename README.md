@@ -8,9 +8,12 @@ Unreal Engine.
 You can also open an existing `.frag` file to check it before you bring it into
 Unreal.
 
-The conversion runs in your browser, so your model isn't uploaded anywhere. The
-page does fetch the `web-ifc` engine and the Fragments worker from public CDNs,
-so it needs an internet connection.
+**Don't want to install anything?** The hosted version runs at
+[fragmentsunreal.dev/viewer](https://www.fragmentsunreal.dev/viewer/).
+
+Either way, the conversion runs in your browser, so your model isn't uploaded
+anywhere. Running it locally still fetches the `web-ifc` engine and the
+Fragments worker from public CDNs, so it needs an internet connection.
 
 ---
 
